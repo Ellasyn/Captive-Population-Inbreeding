@@ -1,0 +1,25 @@
+﻿  Animal.cpp
+  AssemblyInfo.cpp
+  Coordinator.cpp
+  GenePair.cpp
+  Genome.cpp
+  Genotype.cpp
+  Main.cpp
+  MathsUtils.cpp
+  OptionsWindow.cpp
+  pch.cpp
+  Population.cpp
+  Zoo.cpp
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(75,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(85,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(122,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(216,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(218,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(229,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Population.cpp(231,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Zoo.cpp(185,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\Zoo.cpp(191,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Animal.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Captive Population Inbreeding.vcxproj -> C:\Users\charl\source\repos\Captive-Population-Inbreeding\x64\Debug\Captive Population Inbreeding.exe

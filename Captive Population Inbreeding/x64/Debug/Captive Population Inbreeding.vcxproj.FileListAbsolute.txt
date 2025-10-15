@@ -1,0 +1,6 @@
+C:\Users\charl\source\repos\Captive Population Inbreeding\Captive Population Inbreeding\x64\Debug\Captive Population Inbreeding.vcxproj.AssemblyReference.cache
+C:\Users\charl\source\repos\Captive Population Inbreeding\Captive Population Inbreeding\x64\Debug\Captive_Population_Inbreeding.OptionsWindow.resources
+C:\Users\charl\source\repos\Captive Population Inbreeding\Captive Population Inbreeding\x64\Debug\Captive Population Inbreeding.vcxproj.GenerateResource.cache
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\x64\Debug\Captive Population Inbreeding.vcxproj.AssemblyReference.cache
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\x64\Debug\Captive_Population_Inbreeding.OptionsWindow.resources
+C:\Users\charl\source\repos\Captive-Population-Inbreeding\Captive Population Inbreeding\x64\Debug\Captive Population Inbreeding.vcxproj.GenerateResource.cache
